@@ -1,6 +1,10 @@
 [![MasterHead](header.png)](#)
+
 <div align="center">
-  <h2><img src="/wave.gif" width="30"> Welcome to my Hub!</h2>
+  <h2>
+    <img src="wave.gif" width="30px">
+    Welcome to my Hub!
+  </h2>
 
   I am Oleg - Unknown Flying Oleg :smile: Master of Technical Sciences from the [MIREA - Russian State University](https://mirea.ru/), web application developer, advocate of microservices and cloud technologies. 
   My goal is not only full stack development of web solutions for business, but also constant upgrading of my competencies. Feel free to connect with me here:<br><br>
