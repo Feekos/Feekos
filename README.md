@@ -1,4 +1,4 @@
-[![MasterHead](header.png)](#)
+<!-- [![MasterHead](header.png)](#) -->
 
 <div align="center">
   <h2>
