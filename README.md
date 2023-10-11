@@ -6,7 +6,7 @@
     Welcome to my Hub!
   </h2>
 
-  I am Oleg - Unknown Flying Oleg :smile: Master of Technical Sciences from the [MIREA - Russian State University](https://mirea.ru/), web application developer, advocate of microservices and cloud technologies. 
+  I am Oleg - Unknown Flying Oleg :smile: Master of Technical Sciences from the [MIREA - Russian Technological University](https://mirea.ru/), web application developer, advocate of microservices and cloud technologies. 
   My goal is not only full stack development of web solutions for business, but also constant upgrading of my competencies. Feel free to connect with me here:<br><br>
   [![Telegram Badge](https://img.shields.io/badge/-Feekos?style=flat-square&logo=Telegram&logoColor=white&label=Telegram&labelColor=blue&color=blue&link=https%3A%2F%2Ft.me%2FBOPCAXAPA)](https://t.me/BOPCAXAPA)
   [![VK Badge](https://img.shields.io/badge/-Feekos?style=flat-square&logo=VK&logoColor=white&label=VKontakte&labelColor=rgb(76%2C%20117%2C%20163)&color=rgb(76%2C%20117%2C%20163))](https://vk.com/caxap_404)
