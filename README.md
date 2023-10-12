@@ -12,6 +12,9 @@
   [![VK Badge](https://img.shields.io/badge/-Feekos?style=flat-square&logo=VK&logoColor=white&label=VKontakte&labelColor=rgb(76%2C%20117%2C%20163)&color=rgb(76%2C%20117%2C%20163))](https://vk.com/caxap_404)
   [![Gmail Badge](https://img.shields.io/badge/-Barss.Mine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barss.mine@gmail.com)](mailto:barss.mine@gmail.com)
 </div><br>
+
+<div align="center"><img src="cat-coding.gif"></div>
+
 <div align="center">
   <h2>⚡ Technology Stack</h2>
   
