@@ -3,7 +3,7 @@
 <div align="center">
   <h2>
     <img src="wave.gif" width="30px">
-    Welcome to my Hub!
+    Nice to meet you!
   </h2>
 
   I am Oleg - Unknown Flying Oleg :smile: Master of Technical Sciences from the [MIREA - Russian Technological University](https://mirea.ru/), web application developer, advocate of microservices and cloud technologies. 
