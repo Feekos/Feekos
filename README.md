@@ -23,6 +23,7 @@
   ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
   ![NextJS](https://img.shields.io/badge/-Next.JS-E34F26?style=flat-square&logo=next.js&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-white?style=flat-square&logo=TailwindCSS)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql) <br>
   ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
   ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
