@@ -18,17 +18,17 @@
 <div align="center">
   <h2>⚡ Technology Stack</h2>
   
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
+  ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
   ![NextJS](https://img.shields.io/badge/-NextJS-E34F26?style=flat-square&logo=nextjs&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) <br>
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
+  ![PHP](https://img.shields.io/badge/-PHP-white?style=flat-square&logo=php)
+  ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
+  ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 </div><br>
