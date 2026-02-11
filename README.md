@@ -3,7 +3,7 @@
 <div align="center">
   <h2>
     <img src="wave.gif" width="30px">
-    Nice to meet you!
+    Приветствую в моем профиле!
   </h2>
 
   I am Oleg - Unknown Flying Oleg :smile: Master of Computer Sciences from the [MIREA - Russian Technological University](https://mirea.ru/), web application developer, advocate of microservices and cloud technologies. 
@@ -16,7 +16,7 @@
 <div align="center"><img src="cat-coding.gif"></div>
 
 <div align="center">
-  <h2>⚡ Technology Stack</h2>
+  <h2>⚡ Технологический стек</h2>
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
@@ -32,7 +32,7 @@
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 </div><br>
 <div align="center">
-  <h2>💻 Progress Bar</h2>
+  <h2>💻 Статистика (печальное)</h2>
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Feekos)](https://git.io/streak-stats)
 </div>
