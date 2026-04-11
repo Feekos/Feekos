@@ -18,18 +18,20 @@
   </a>
 </div>
 
-<!-- ===== ABOUT ME (EXPANDED) ===== -->
-<div align="center">
-  <h2>
-    <img src="wave.gif" width="30px">
-    Приветствую в моем профиле!
-  </h2>
+<!-- ===== ABOUT ME ===== -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia78/giphy.gif" width="40" alt="hi" />
   
-  I am Oleg - Unknown Flying Oleg :smile: Master of Computer Sciences from the [MIREA - Russian Technological University](https://mirea.ru/), web application developer, advocate of microservices and cloud technologies. 
-  My goal is not only full stack development of web solutions for business, but also constant upgrading of my competencies. 
-</div><br>
+  ### 👋 Привет, я Олег — «Unknown Flying Oleg» 🚀👽
+  
+  > **Frontend-разработчик** / **Тимлид** | React • Next.js • TypeScript
+  
+  Магистр технических наук. Окончил **РТУ МИРЭА** по специальности «Программная инженерия».<br> 
+  Создаю быстрые, масштабируемые и эргономичные веб-интерфейсы с фокусом на пользовательский опыт.
+  Пишу чистый, типизированный код и ценю баланс между красотой и производительностью.
+  
+  <sub>🧪 **Хобби**: изучаю NLP и RAG-системы — исследую, как ИИ может усиливать фронтенд-опыт.</sub>
+</div>
 
 <!-- ===== TECHNOLOGY STACK ===== -->
 <div align="center">
