@@ -10,7 +10,7 @@
 
 <!-- ===== SOCIAL LINKS ===== -->
 <div align="center" style="margin: 16px 0;">
-  <a href="https://t.me/BOPCAXAPA" target="_blank">
+  <a href="https://t.me/BOPCAXAPA" target="_blank" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:barss.mine@gmail.com">
@@ -20,7 +20,6 @@
 
 <!-- ===== ABOUT ME ===== -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia78/giphy.gif" width="40" alt="hi" />
   
   ### 👋 Привет, я Олег — «Unknown Flying Oleg» 🚀👽
   
